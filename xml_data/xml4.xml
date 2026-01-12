@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><CourseGradeList>
+    <Course id="C01">
+        <StudentScore studentId="STU1006" score="90">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">83</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">93</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">90</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1003" score="89">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">81</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">93</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">89</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1004" score="88">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">87</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">89</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">88</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1009" score="84">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">96</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">79</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">84</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1000" score="83">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">67</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">91</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">83</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1008" score="83">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">73</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">88</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">83</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1001" score="80">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">96</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">74</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">80</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1005" score="74">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">84</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">70</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">74</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1007" score="47">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">64</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">41</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">47</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1002" score="34">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">93</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">9</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">34</scoreTotal>
+        </StudentScore>
+    </Course>
+    <Course id="C02">
+        <StudentScore studentId="STU1001" score="96">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">93</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">98</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">96</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1003" score="93">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">96</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">92</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">93</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1002" score="91">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">91</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">91</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">91</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1005" score="90">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">69</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">99</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">90</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1009" score="88">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">61</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">100</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">88</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1006" score="86">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">74</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">92</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">86</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1007" score="86">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">93</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">83</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">86</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1004" score="81">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">99</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">74</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">81</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1008" score="60">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">99</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">44</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">60</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1000" score="56">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">89</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">43</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">56</scoreTotal>
+        </StudentScore>
+    </Course>
+    <Course id="C03">
+        <StudentScore studentId="STU1000" score="96">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">99</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">95</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">96</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1008" score="88">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">90</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">88</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">88</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1009" score="87">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">62</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">99</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">87</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1003" score="85">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">81</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">88</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">85</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1001" score="79">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">75</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">82</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">79</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1005" score="76">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">79</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">75</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">76</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1004" score="74">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">87</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">69</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">74</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1002" score="66">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">61</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">69</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">66</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1007" score="51">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">76</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">41</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">51</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1006" score="38">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">83</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">20</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">38</scoreTotal>
+        </StudentScore>
+    </Course>
+    <Course id="C04">
+        <StudentScore studentId="STU1003" score="93">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">93</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">93</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">93</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1004" score="87">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">78</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">91</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">87</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1009" score="86">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">67</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">95</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">86</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1006" score="84">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">76</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">88</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">84</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1000" score="82">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">63</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">91</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">82</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1002" score="79">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">83</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">78</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">79</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1007" score="79">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">61</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">87</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">79</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1001" score="73">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">69</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">75</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">73</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1008" score="70">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">81</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">66</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">70</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1005" score="40">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">77</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">25</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">40</scoreTotal>
+        </StudentScore>
+    </Course>
+    <Course id="C05">
+        <StudentScore studentId="STU1000" score="82">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">97</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">76</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">82</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1005" score="82">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">62</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">92</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">82</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1009" score="81">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">80</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">82</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">81</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1001" score="76">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">76</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">76</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">76</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1003" score="75">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">85</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">72</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">75</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1006" score="74">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">70</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">77</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">74</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1002" score="71">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">84</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">66</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">71</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1007" score="66">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">73</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">63</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">66</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1004" score="60">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">96</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">45</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">60</scoreTotal>
+        </StudentScore>
+        <StudentScore studentId="STU1008" score="24">
+            <scoreDaily xmlns="http://jw.nju.edu.cn/schema">73</scoreDaily>
+            <scoreFinal xmlns="http://jw.nju.edu.cn/schema">4</scoreFinal>
+            <scoreTotal xmlns="http://jw.nju.edu.cn/schema">24</scoreTotal>
+        </StudentScore>
+    </Course>
+</CourseGradeList>

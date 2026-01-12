@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<StudentList xmlns="http://jw.nju.edu.cn/schema">
+    <Student>
+        <id>STU1000</id>
+        <name>Student_0</name>
+        <gender>Male</gender>
+        <Course courseId="C01">
+            <scoreDaily>67</scoreDaily>
+            <scoreFinal>91</scoreFinal>
+            <scoreTotal>83</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>89</scoreDaily>
+            <scoreFinal>43</scoreFinal>
+            <scoreTotal>56</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>99</scoreDaily>
+            <scoreFinal>95</scoreFinal>
+            <scoreTotal>96</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>63</scoreDaily>
+            <scoreFinal>91</scoreFinal>
+            <scoreTotal>82</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>97</scoreDaily>
+            <scoreFinal>76</scoreFinal>
+            <scoreTotal>82</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1001</id>
+        <name>Student_1</name>
+        <gender>Male</gender>
+        <Course courseId="C01">
+            <scoreDaily>96</scoreDaily>
+            <scoreFinal>74</scoreFinal>
+            <scoreTotal>80</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>93</scoreDaily>
+            <scoreFinal>98</scoreFinal>
+            <scoreTotal>96</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>75</scoreDaily>
+            <scoreFinal>82</scoreFinal>
+            <scoreTotal>79</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>69</scoreDaily>
+            <scoreFinal>75</scoreFinal>
+            <scoreTotal>73</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>76</scoreDaily>
+            <scoreFinal>76</scoreFinal>
+            <scoreTotal>76</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1002</id>
+        <name>Student_2</name>
+        <gender>Female</gender>
+        <Course courseId="C01">
+            <scoreDaily>93</scoreDaily>
+            <scoreFinal>9</scoreFinal>
+            <scoreTotal>34</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>91</scoreDaily>
+            <scoreFinal>91</scoreFinal>
+            <scoreTotal>91</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>61</scoreDaily>
+            <scoreFinal>69</scoreFinal>
+            <scoreTotal>66</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>83</scoreDaily>
+            <scoreFinal>78</scoreFinal>
+            <scoreTotal>79</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>84</scoreDaily>
+            <scoreFinal>66</scoreFinal>
+            <scoreTotal>71</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1003</id>
+        <name>Student_3</name>
+        <gender>Male</gender>
+        <Course courseId="C01">
+            <scoreDaily>81</scoreDaily>
+            <scoreFinal>93</scoreFinal>
+            <scoreTotal>89</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>96</scoreDaily>
+            <scoreFinal>92</scoreFinal>
+            <scoreTotal>93</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>81</scoreDaily>
+            <scoreFinal>88</scoreFinal>
+            <scoreTotal>85</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>93</scoreDaily>
+            <scoreFinal>93</scoreFinal>
+            <scoreTotal>93</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>85</scoreDaily>
+            <scoreFinal>72</scoreFinal>
+            <scoreTotal>75</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1004</id>
+        <name>Student_4</name>
+        <gender>Female</gender>
+        <Course courseId="C01">
+            <scoreDaily>87</scoreDaily>
+            <scoreFinal>89</scoreFinal>
+            <scoreTotal>88</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>99</scoreDaily>
+            <scoreFinal>74</scoreFinal>
+            <scoreTotal>81</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>87</scoreDaily>
+            <scoreFinal>69</scoreFinal>
+            <scoreTotal>74</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>78</scoreDaily>
+            <scoreFinal>91</scoreFinal>
+            <scoreTotal>87</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>96</scoreDaily>
+            <scoreFinal>45</scoreFinal>
+            <scoreTotal>60</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1005</id>
+        <name>Student_5</name>
+        <gender>Male</gender>
+        <Course courseId="C01">
+            <scoreDaily>84</scoreDaily>
+            <scoreFinal>70</scoreFinal>
+            <scoreTotal>74</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>69</scoreDaily>
+            <scoreFinal>99</scoreFinal>
+            <scoreTotal>90</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>79</scoreDaily>
+            <scoreFinal>75</scoreFinal>
+            <scoreTotal>76</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>77</scoreDaily>
+            <scoreFinal>25</scoreFinal>
+            <scoreTotal>40</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>62</scoreDaily>
+            <scoreFinal>92</scoreFinal>
+            <scoreTotal>82</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1006</id>
+        <name>Student_6</name>
+        <gender>Female</gender>
+        <Course courseId="C01">
+            <scoreDaily>83</scoreDaily>
+            <scoreFinal>93</scoreFinal>
+            <scoreTotal>90</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>74</scoreDaily>
+            <scoreFinal>92</scoreFinal>
+            <scoreTotal>86</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>83</scoreDaily>
+            <scoreFinal>20</scoreFinal>
+            <scoreTotal>38</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>76</scoreDaily>
+            <scoreFinal>88</scoreFinal>
+            <scoreTotal>84</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>70</scoreDaily>
+            <scoreFinal>77</scoreFinal>
+            <scoreTotal>74</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1007</id>
+        <name>Student_7</name>
+        <gender>Female</gender>
+        <Course courseId="C01">
+            <scoreDaily>64</scoreDaily>
+            <scoreFinal>41</scoreFinal>
+            <scoreTotal>47</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>93</scoreDaily>
+            <scoreFinal>83</scoreFinal>
+            <scoreTotal>86</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>76</scoreDaily>
+            <scoreFinal>41</scoreFinal>
+            <scoreTotal>51</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>61</scoreDaily>
+            <scoreFinal>87</scoreFinal>
+            <scoreTotal>79</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>73</scoreDaily>
+            <scoreFinal>63</scoreFinal>
+            <scoreTotal>66</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1008</id>
+        <name>Student_8</name>
+        <gender>Male</gender>
+        <Course courseId="C01">
+            <scoreDaily>73</scoreDaily>
+            <scoreFinal>88</scoreFinal>
+            <scoreTotal>83</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>99</scoreDaily>
+            <scoreFinal>44</scoreFinal>
+            <scoreTotal>60</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>90</scoreDaily>
+            <scoreFinal>88</scoreFinal>
+            <scoreTotal>88</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>81</scoreDaily>
+            <scoreFinal>66</scoreFinal>
+            <scoreTotal>70</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>73</scoreDaily>
+            <scoreFinal>4</scoreFinal>
+            <scoreTotal>24</scoreTotal>
+        </Course>
+    </Student>
+    <Student>
+        <id>STU1009</id>
+        <name>Student_9</name>
+        <gender>Female</gender>
+        <Course courseId="C01">
+            <scoreDaily>96</scoreDaily>
+            <scoreFinal>79</scoreFinal>
+            <scoreTotal>84</scoreTotal>
+        </Course>
+        <Course courseId="C02">
+            <scoreDaily>61</scoreDaily>
+            <scoreFinal>100</scoreFinal>
+            <scoreTotal>88</scoreTotal>
+        </Course>
+        <Course courseId="C03">
+            <scoreDaily>62</scoreDaily>
+            <scoreFinal>99</scoreFinal>
+            <scoreTotal>87</scoreTotal>
+        </Course>
+        <Course courseId="C04">
+            <scoreDaily>67</scoreDaily>
+            <scoreFinal>95</scoreFinal>
+            <scoreTotal>86</scoreTotal>
+        </Course>
+        <Course courseId="C05">
+            <scoreDaily>80</scoreDaily>
+            <scoreFinal>82</scoreFinal>
+            <scoreTotal>81</scoreTotal>
+        </Course>
+    </Student>
+</StudentList>

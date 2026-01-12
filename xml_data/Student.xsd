@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://jw.nju.edu.cn/schema"
+        xmlns:tns="http://jw.nju.edu.cn/schema"
+        elementFormDefault="qualified">
+
+    <complexType name="StudentType">
+        <sequence>
+            <element name="id" type="string"/>
+            <element name="name" type="string"/>
+            <element name="gender" type="tns:GenderType"/>
+        </sequence>
+    </complexType>
+
+    <simpleType name="GenderType">
+        <restriction base="string">
+            <enumeration value="Male"/>
+            <enumeration value="Female"/>
+        </restriction>
+    </simpleType>
+
+    <complexType name="CourseScoreType">
+        <sequence>
+            <element name="scoreDaily" type="int"/>
+            <element name="scoreFinal" type="int"/>
+            <element name="scoreTotal" type="int"/>
+        </sequence>
+        <attribute name="courseId" type="string"/>
+    </complexType>
+</schema>

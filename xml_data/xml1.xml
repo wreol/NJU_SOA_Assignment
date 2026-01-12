@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:StudentArchive xmlns:tns="http://jw.nju.edu.cn/schema/archive"
+                    xmlns:jw="http://jw.nju.edu.cn/schema"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://jw.nju.edu.cn/schema/archive Archive.xsd">
+    <jw:id>1000</jw:id>
+    <jw:name>Zhang San</jw:name>
+    <jw:gender>Male</jw:gender>
+    <tns:birthDate>2000-01-01</tns:birthDate>
+    <tns:address>Nanjing University</tns:address>
+</tns:StudentArchive>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FailedList>
+    <StudentScore studentId="STU1007" courseId="C01">
+
+                  <scoreDaily>64</scoreDaily>
+
+                  <scoreFinal>41</scoreFinal>
+
+                  <scoreTotal>47</scoreTotal>
+
+            </StudentScore>
+    <StudentScore studentId="STU1002" courseId="C01">
+
+                  <scoreDaily>93</scoreDaily>
+
+                  <scoreFinal>9</scoreFinal>
+
+                  <scoreTotal>34</scoreTotal>
+
+            </StudentScore>
+    <StudentScore studentId="STU1000" courseId="C02">
+
+                  <scoreDaily>89</scoreDaily>
+
+                  <scoreFinal>43</scoreFinal>
+
+                  <scoreTotal>56</scoreTotal>
+
+            </StudentScore>
+    <StudentScore studentId="STU1007" courseId="C03">
+
+                  <scoreDaily>76</scoreDaily>
+
+                  <scoreFinal>41</scoreFinal>
+
+                  <scoreTotal>51</scoreTotal>
+
+            </StudentScore>
+    <StudentScore studentId="STU1006" courseId="C03">
+
+                  <scoreDaily>83</scoreDaily>
+
+                  <scoreFinal>20</scoreFinal>
+
+                  <scoreTotal>38</scoreTotal>
+
+            </StudentScore>
+    <StudentScore studentId="STU1005" courseId="C04">
+
+                  <scoreDaily>77</scoreDaily>
+
+                  <scoreFinal>25</scoreFinal>
+
+                  <scoreTotal>40</scoreTotal>
+
+            </StudentScore>
+    <StudentScore studentId="STU1008" courseId="C05">
+
+                  <scoreDaily>73</scoreDaily>
+
+                  <scoreFinal>4</scoreFinal>
+
+                  <scoreTotal>24</scoreTotal>
+
+            </StudentScore>
+</FailedList>
